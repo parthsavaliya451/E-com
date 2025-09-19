@@ -15,7 +15,7 @@ The project uses **PHP + MySQL** with **Razorpay Test Payment Gateway** for secu
 ---
 
 
-### 🛍 User Side
+###  User Side
 - User registration & login  
 - Browse products by category (clothing/fashion)  
 - Add to cart & wishlist  
